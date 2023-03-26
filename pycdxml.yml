@@ -1,0 +1,13 @@
+name: pycdxml
+channels:  
+  - conda-forge 
+  - defaults   
+dependencies:
+  - python>=3.8  
+  - rdkit>=2020.09.1 
+  - numpy
+  - pyyaml
+  - lxml
+  - fonttools
+  - matplotlib
+  - pip
